@@ -1,0 +1,7 @@
+requests
+bs4
+imgcat
+Pillow
+numpy
+opencv-python
+pytesseract
