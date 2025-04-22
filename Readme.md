@@ -1,3 +1,8 @@
+All the code here has been migrated to [ramSeraph/egazette](https://github.com/ramSeraph/egazette) and data has been uploaded to the [gazetteofindia](https://archive.org/details/gazetteofindia) collection on Internet Archive.
+
+==============
+
+
 Contains code to scrape Indian state gazettes
 
 Some of the urls were obtained from the central gazette site at https://egazette.gov.in
